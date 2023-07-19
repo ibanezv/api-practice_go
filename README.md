@@ -1,2 +1,2 @@
-# fly-devs-practice_go
+# api-practice_go
 Go API as exercise
